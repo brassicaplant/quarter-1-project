@@ -1,0 +1,50 @@
+body {
+background: #B5CCBF;
+text-align: center;
+}
+.container{
+	grid-template-columns: 25% 50% 25%;
+}
+
+.navbar-fixed nav {
+	background-color: green;
+	align-content: center;
+	text-align: center;
+}
+
+#brasslogo {
+	padding-top: 16px;
+	margin-top: 0;
+}
+
+input {
+	border: solid black 2px;
+}
+
+#header {
+z-index: 2;
+font-family: 'Sigmar One', cursive;
+padding-top: 16px;
+margin-top: 0;
+float: center;
+}
+
+#mainLogo {
+	width: 25%;
+	height: 25%;
+}
+
+#lilBrass {
+	width: 25px;
+	height: 25px;
+	border: solid black;
+	margin-top: 5px;
+}
+
+form::placeholder {
+	color: blue;
+}
+
+#submitBtn {
+	background-color: green;
+}

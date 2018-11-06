@@ -1,0 +1,32 @@
+body {
+background: #B5CCBF;
+text-align: center;
+}
+
+.navbar-fixed nav {
+	background-color: green;
+	align-content: center;
+	text-align: center;
+}
+
+#brasslogo {
+	padding-top: 16px;
+	margin-top: 0;
+}
+
+#header {
+z-index: 2;
+font-family: 'Sigmar One', cursive;
+padding-top: 16px;
+margin-top: 0;
+float: center;
+}
+
+.videoPlayer {
+	margin: auto;
+	align-items: center;
+}
+
+#videoP.videoPlayer {
+	margin-top: 10%;
+}
